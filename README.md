@@ -17,8 +17,8 @@ I am a junior computer science student at LUMS, passionate about Artificial Inte
 
 **Lahore University of Management Sciences (LUMS)**  
 _B.Sc. (Hons) Computer Science | Aug 2022 - Present_  
-**GPA:** 3.205  
-**Relevant Courses:** Artificial Intelligence, Databases, Data Science, Data Structures, Discrete Mathematics, Calculus, Probability, Machine Learning, Management Sciences
+**GPA:** 3.37 
+**Relevant Courses:** Artificial Intelligence, Databases, Data Science, Data Analysis, Calculus, Machine Learning, Generative AI, Deep Learning
 
 **Lahore Grammar School**  
 _A Levels | Aug 2020 - May 2022_  
