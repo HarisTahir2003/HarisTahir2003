@@ -40,6 +40,7 @@ I'm a Junior CS student at **LUMS** obsessed with how data turns into intelligen
 
 <details>
 <summary><b>🤖 Generative AI & Deep Learning</b></summary>
+<br>
 
 * [Direct Preference Optimization (DPO)](https://github.com/HarisTahir2003/Generative-AI--DPO)
 * [LoRA: Low-Rank Adaptation Finetuning](https://github.com/HarisTahir2003/GenerativeAI--LoRA)
@@ -51,6 +52,7 @@ I'm a Junior CS student at **LUMS** obsessed with how data turns into intelligen
 
 <details>
 <summary><b>📊 Data Science & ML Assignments</b></summary>
+<br>
 
 * **Data Science:** [Final Project](https://github.com/HarisTahir2003/Data-Science-Project) | [Visualizations P1](https://github.com/HarisTahir2003/Data-Science-Visualizations-1) | [Visualizations P2](https://github.com/HarisTahir2003/Data-Science-Visualizations-2) | [Causal Inference P1](https://github.com/HarisTahir2003/Data-Science-Causal-and-Statistical-Inference-1) | [Causal Inference P2](https://github.com/HarisTahir2003/Data-Science-Causal-and-Statistical-Inference-2)
 * **Machine Learning:** [Neural Network from Scratch](https://github.com/HarisTahir2003/Neural-Network-1) | [Comprehensive ML Pipeline](https://github.com/HarisTahir2003/Machine-Learning-Project) | [Naive Bayes](https://github.com/HarisTahir2003/Naive-Bayes) | [KNN](https://github.com/HarisTahir2003/K-Nearest-Neighbours) | [Logistic Regression](https://github.com/HarisTahir2003/Logistic-Regression-2)
@@ -58,6 +60,7 @@ I'm a Junior CS student at **LUMS** obsessed with how data turns into intelligen
 
 <details>
 <summary><b>🧠 Artificial Intelligence & Software</b></summary>
+<br>
 
 * [AI Search Algorithms (BFS, DFS, A*)](https://github.com/HarisTahir2003/Searches)
 * [AI Final Project](https://github.com/HarisTahir2003/AI_Project)
@@ -69,10 +72,9 @@ I'm a Junior CS student at **LUMS** obsessed with how data turns into intelligen
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarisTahir2003&show_icons=true&theme=dark&hide_border=false" alt="Haris's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisTahir2003&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="170px" />
-</p>
+
+![Haris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarisTahir2003&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarisTahir2003&layout=compact&theme=radical)
 
 ---
 
