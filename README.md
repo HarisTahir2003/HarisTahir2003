@@ -88,11 +88,13 @@
 
 * [AI Search Algorithms (A*, BFS, DFS)](https://github.com/HarisTahir2003/Searches)
 * [AI Final Project](https://github.com/HarisTahir2003/AI_Project)
+  
 </details>
 
 <details>
 <summary><b>🛠️ Software Engineering</b></summary>
 <br>
+ 
 * [Basic Vector Calculator](https://github.com/HarisTahir2003/Basic-Vector-Calculator)
 * [HealthSync](https://github.com/HarisTahir2003/SE-Project-Group-9)
 </details>
