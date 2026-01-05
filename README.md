@@ -8,9 +8,9 @@
      Creating intelligence from data. Focused on <b>Deep Learning</b>, <b>Medical Imaging</b>, and <b>Generative AI</b>.
   </p>
   
- <p align="center">
-   <img src="img.jpg" alt="Haris Tahir AI Portfolio" width="100%"/>
- </p>
+<p align="center">
+   <img src="img.jpg" alt="Haris Tahir AI Portfolio" width="1000" height="600"/>
+</p>
   
 
 <div align="center">
