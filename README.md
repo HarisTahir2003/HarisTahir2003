@@ -145,3 +145,8 @@
 
 </div>
 
+<div align="center">
+ 
+  ![snake gif](https://github.com/HarisTahir2003/HarisTahir2003/blob/output/github-snake-dark.svg)
+  
+</div
