@@ -47,7 +47,6 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**DeepSlice Pro**](https://github.com/HarisTahir2003/Deep-Learning-Project-Group-17) | 🏥 AI-driven medical scan segmentation using UNet++ and Swin Transformers. | `Flutter` `LangChain` `PyTorch` |
-| [**HTP AI Tool**](https://github.com/HarisTahir2003) | 🧠 Psychological assessment tool using Gemini AI to analyze HTP drawings. | `Gemini API` `LangChain` |
 | [**HealthSync**](https://github.com/HarisTahir2003/SE-Project-Group-9) | 🩺 Full-stack hospital app with automated scheduling and user dashboards. | `React Native` `Django` |
 | [**Financial Analyzer**](https://github.com/HarisTahir2003) | 📈 Tool for downloading and parsing SEC financial filings for data analysis. | `Geminin API` `LangChain` |
 
