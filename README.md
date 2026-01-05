@@ -9,12 +9,15 @@
   </p>
   
  <p align="center">
-   <img src="https://raw.githubusercontent.com/HarisTahir2003/HarisTahir2003/main/header-image.png" alt="Haris Tahir AI Portfolio" width="100%" />
+   <img src="img.jpg" alt="Haris Tahir AI Portfolio" width="100%"/>
  </p>
   
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=HarisTahir2003&icon=0&color=0" />
-  </a>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarisTahir2003&style=flat-square&color=007ACC&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/last-commit/HarisTahir2003/HarisTahir2003?style=flat-square&color=007ACC" alt="Last Commit" />
+  <img src="https://img.shields.io/github/commit-activity/m/HarisTahir2003/HarisTahir2003?style=flat-square&color=007ACC" alt="Commit Activity" />
+</div>
 
 </div>
 
@@ -22,10 +25,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **DeepSlice Pro** (Medical Segmentation).
+- 🔭 I’m currently working on **DeepSlice Pro**, a Medical Segmentation project that involves segmentation of 2D images with an immersive UI.
 - 🌱 I’m currently learning **Data Mining Techniques and Applications**.
-- 👯 I’m looking to collaborate on **Open Source AI and Software Projects**.
-- ⚡ Fun fact: I can debug a Neural Network faster than I can decide what to order for dinner.
+- 👯 I’m looking to collaborate on **Deep Learning/GenAI and Software Projects**.
 
 ---
 
@@ -44,10 +46,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**DeepSlice Pro**](https://github.com/HarisTahir2003/Deep-Learning-Project-Group-17) | 🏥 AI-driven medical scan segmentation using UNet++ and Swin Transformers. | `PyTorch` `CV` |
-| [**HTP AI Tool**](https://github.com/HarisTahir2003) | 🧠 Psychological assessment tool using Gemini AI to analyze HTP drawings. | `Gemini API` `Python` |
+| [**DeepSlice Pro**](https://github.com/HarisTahir2003/Deep-Learning-Project-Group-17) | 🏥 AI-driven medical scan segmentation using UNet++ and Swin Transformers. | `Flutter` `LangChain` `PyTorch` |
+| [**HTP AI Tool**](https://github.com/HarisTahir2003) | 🧠 Psychological assessment tool using Gemini AI to analyze HTP drawings. | `Gemini API` `LangChain` |
 | [**HealthSync**](https://github.com/HarisTahir2003/SE-Project-Group-9) | 🩺 Full-stack hospital app with automated scheduling and user dashboards. | `React Native` `Django` |
-| [**Financial Analyzer**](https://github.com/HarisTahir2003) | 📈 Tool for downloading and parsing SEC financial filings for data analysis. | `Python` `BS4` |
+| [**Financial Analyzer**](https://github.com/HarisTahir2003) | 📈 Tool for downloading and parsing SEC financial filings for data analysis. | `Geminin API` `LangChain` |
 
 ---
 
@@ -56,12 +58,15 @@
 <details>
 <summary><b>🤖 Generative AI & Deep Learning</b></summary>
 <br>
-
-* [Direct Preference Optimization (DPO)](https://github.com/HarisTahir2003/Generative-AI--DPO)
-* [LoRA: Low-Rank Adaptation](https://github.com/HarisTahir2003/GenerativeAI--LoRA)
-* [Transformer Architectures](https://github.com/HarisTahir2003/GenerativeAI--Transformers)
-* [LSTM Text Generation](https://github.com/HarisTahir2003/GenerativeAI--LSTMs)
+ 
 * [Word2Vec Experiments](https://github.com/HarisTahir2003/GenerativeAI--word2vec)
+* [LSTM Text Generation](https://github.com/HarisTahir2003/GenerativeAI--LSTMs)
+* [Transformer Architectures](https://github.com/HarisTahir2003/GenerativeAI--Transformers)
+* [LoRA: Low-Rank Adaptation](https://github.com/HarisTahir2003/GenerativeAI--LoRA)
+* [Direct Preference Optimization (DPO)](https://github.com/HarisTahir2003/Generative-AI--DPO)
+
+<br>
+
 * [Medical Image Classification](https://github.com/HarisTahir2003/Deep-Learning-Project-Group-17)
 * [Financial Analyzer](https://github.com/HarisTahir2003)
 </details>
@@ -70,12 +75,18 @@
 <summary><b>📊 Data Science & Machine Learning</b></summary>
 <br>
 
-* [Data Science Final Project](https://github.com/HarisTahir2003/Data-Science-Project)
-* [Causal Inference Part 1](https://github.com/HarisTahir2003/Data-Science-Causal-and-Statistical-Inference-1) & [Part 2](https://github.com/HarisTahir2003/Data-Science-Causal-and-Statistical-Inference-2)
 * [Visualizations Part 1](https://github.com/HarisTahir2003/Data-Science-Visualizations-1) & [Part 2](https://github.com/HarisTahir2003/Data-Science-Visualizations-2)
+* [Causal Inference Part 1](https://github.com/HarisTahir2003/Data-Science-Causal-and-Statistical-Inference-1) & [Part 2](https://github.com/HarisTahir2003/Data-Science-Causal-and-Statistical-Inference-2)
+* [Data Science Final Project](https://github.com/HarisTahir2003/Data-Science-Project)
+
+<br> 
+
+* [Algorithms: Naive Bayes](https://github.com/HarisTahir2003/Naive-Bayes) | [KNN](https://github.com/HarisTahir2003/K-Nearest-Neighbours) | [Logistic Regression](https://github.com/HarisTahir2003/Logistic-Regression-2)
 * [Machine Learning Pipeline](https://github.com/HarisTahir2003/Machine-Learning-Project)
 * [Neural Network from Scratch](https://github.com/HarisTahir2003/Neural-Network-1)
-* [Algorithms: Naive Bayes](https://github.com/HarisTahir2003/Naive-Bayes) | [KNN](https://github.com/HarisTahir2003/K-Nearest-Neighbours) | [Logistic Regression](https://github.com/HarisTahir2003/Logistic-Regression-2)
+
+<br> 
+
 * [AI Search Algorithms (A*, BFS, DFS)](https://github.com/HarisTahir2003/Searches)
 * [AI Final Project](https://github.com/HarisTahir2003/AI_Project)
 </details>
@@ -93,16 +104,27 @@
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=HarisTahir2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HarisTahir2003&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
+  
+  <br/><br/>
 
-<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarisTahir2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="Haris's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisTahir2003&theme=radical&hide_border=false&layout=compact" height="180" alt="Top Languages" />
+  
+  <br/><br/>
 
-![](https://github-readme-stats.vercel.app/api?username=HarisTahir2003&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarisTahir2003&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarisTahir2003&theme=neon&hide_border=false)
+  <img src="https://streak-stats.demolab.com?user=HarisTahir2003&theme=radical&hide_border=false" alt="Current Streak" />
 
+</div>
+
+---
+
+## ⚡ Recent Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarisTahir2003&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -114,9 +136,12 @@
 
 <div align="center">
 
+--- 
+
 ### 🤝 Connect with Me
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haristahirrana)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haristahirrana@gmail.com) 
 
 </div>
+
