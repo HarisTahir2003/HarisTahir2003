@@ -146,31 +146,16 @@ Terminal-themed personal site with an interactive command interface, project gal
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=HarisTahir2003&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=HarisTahir2003&theme=flat&no-frame=false&no-bg=true&margin-w=4">
-      <img src="https://github-profile-trophy.vercel.app/?username=HarisTahir2003&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-    </picture>
-  </a>
-  
-  <br/><br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HarisTahir2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HarisTahir2003&theme=default&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=HarisTahir2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="Haris's GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=HarisTahir2003&theme=radical&hide_border=false&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=HarisTahir2003&theme=default&hide_border=false&layout=compact">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarisTahir2003&theme=radical&hide_border=false&layout=compact" height="180" alt="Top Languages" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisTahir2003&theme=radical&hide_border=false&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisTahir2003&theme=default&hide_border=false&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisTahir2003&theme=radical&hide_border=false&layout=compact" height="180" alt="Top Languages" />
-  </picture>
-  
+
   <br/><br/>
 
   <picture>
