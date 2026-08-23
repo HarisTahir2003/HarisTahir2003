@@ -20,8 +20,8 @@
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=HarisTahir2003&style=flat-square&color=007ACC&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/last-commit/HarisTahir2003/HarisTahir2003?style=flat-square&color=007ACC" alt="Last Commit" />
-  <img src="https://img.shields.io/github/commit-activity/m/HarisTahir2003/HarisTahir2003?style=flat-square&color=007ACC" alt="Commit Activity" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FHarisTahir2003%3Fy%3Dlast&query=%24.total.lastYear&label=contributions%20(12%20mo)&style=flat-square&color=007ACC&logo=github" alt="Contributions in the last 12 months, across all repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3AHarisTahir2003&query=%24.total_count&label=commits%20%C2%B7%20public&style=flat-square&color=007ACC&logo=git&logoColor=white" alt="Total commits authored across public repositories" />
 
 </div>
 
