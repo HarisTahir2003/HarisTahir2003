@@ -2,7 +2,7 @@
 
   <h1 align="center">Hi, I'm Haris Tahir 👋</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=520&lines=AI%2FML+Engineer;Applied+AI;Medical+Imaging;Computer+Vision+and+Deep+Learning;CS+%40+LUMS+'26" alt="AI/ML Engineer — Applied AI, Medical Imaging, Computer Vision and Deep Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=520&lines=AI%2FML+Engineer;Applied+AI;Medical+Imaging;Computer+Vision+and+Deep+Learning;CS+%40+LUMS+'26" alt="AI/ML Engineer: Applied AI, Medical Imaging, Computer Vision and Deep Learning" />
 
   <p align="center">
     <a href="https://portfolio-wheat-sigma-73.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23404040.svg?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -30,10 +30,10 @@
 ## 🚀 Now
 
 - 🏗️ Most recently **Full-Stack Developer** at **Power Zone**, replacing a spreadsheet-based inventory system with a Next.js + PostgreSQL platform that cut client-reported inventory mismatches by **over 98%**.
-- 🏥 **Machine Learning Engineer** at **CLAPP Hospital**, where a hypernasal speech classifier I built reached **96.97% accuracy** — 98.08% sensitivity, 95.74% specificity — on 99 held-out pediatric patients.
+- 🏥 **Machine Learning Engineer** at **CLAPP Hospital**, where a hypernasal speech classifier I built reached **96.97% accuracy** (98.08% sensitivity, 95.74% specificity) on 99 held-out pediatric patients.
 - 🔬 Deep learning for medical imaging: a UNet++ / SEResNet50 pipeline detecting tuberculosis at **99% accuracy and 0.99 macro F1** across 6,000 balanced chest X-rays.
 - 🤖 Agentic RAG over SEC 10-K filings, lifting **RAGAS Faithfulness from 0.18 to 0.74** with chain-of-thought and few-shot prompting.
-- 💬 Open to **AI/ML Engineer** roles — reach me at [haristahirrana@gmail.com](mailto:haristahirrana@gmail.com).
+- 💬 Open to **AI/ML Engineer** roles. Reach me at [haristahirrana@gmail.com](mailto:haristahirrana@gmail.com).
 
 ---
 
@@ -45,7 +45,7 @@
 
 **🫁 [Automated Tuberculosis Detection](https://github.com/HarisTahir2003/Deep-Learning-Project-Group-17)**
 
-Two-stage vision pipeline — UNet++ segmentation into an SEResNet50 classifier — over 6,000 balanced chest X-rays curated from 11,000+ public images. **99% accuracy · 0.99 macro F1 · 0.956 Dice.** GradCAM++ heatmaps verify the classifier attends to pulmonary regions rather than image artifacts.
+Two-stage vision pipeline (UNet++ segmentation into an SEResNet50 classifier) over 6,000 balanced chest X-rays curated from 11,000+ public images. **99% accuracy · 0.99 macro F1 · 0.956 Dice.** GradCAM++ heatmaps verify the classifier attends to pulmonary regions rather than image artifacts.
 
 `PyTorch` `UNet++` `SEResNet50` `GradCAM++`
 
@@ -54,7 +54,7 @@ Two-stage vision pipeline — UNet++ segmentation into an SEResNet50 classifier 
 
 **🩺 [HealthSync](https://github.com/HarisTahir2003/healthsync)**
 
-Telemedicine app connecting patients directly to verified doctors — search, book an appointment, consult in-app. Led a **5-person Agile team**; database-enforced concurrency eliminates double-booking, behind **89 automated tests** and a shipped Android build.
+Telemedicine app connecting patients directly to verified doctors: search, book an appointment, consult in-app. Led a **5-person Agile team**; database-enforced concurrency eliminates double-booking, behind **89 automated tests** and a shipped Android build.
 
 `React Native` `Expo` `FastAPI` `PostgreSQL`
 
